@@ -4,7 +4,6 @@ import { Project } from "./Project";
 
 
 function Portfolio() {
-console.log(projects)
     return (
       <>
         <div className="container py-4 px-4">

@@ -1,3 +1,4 @@
+import PropTypes from 'prop-types'
 
 export const Project = (props) => {
 
@@ -34,4 +35,12 @@ return (
 </div>
 </div>
 )
+}
+
+Project.propTypes = {
+  title: PropTypes.string.isRequired,
+  description: PropTypes.string.isRequired,
+  link: PropTypes.string.isRequired,
+  github: PropTypes.string.isRequired,
+  image: PropTypes.string.isRequired,
 }
