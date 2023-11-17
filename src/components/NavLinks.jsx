@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types'
 
-export default function Navbar({  links }) {
+export default function NavLinks({  links }) {
     return (
       <nav className="navbar navbar-expand-lg bg-secondary">
         <div className="container-fluid">
@@ -14,6 +14,6 @@ export default function Navbar({  links }) {
     );
   }
   
-  Navbar.propTypes = {
+  NavLinks.propTypes = {
     links: PropTypes.array.isRequired
   }

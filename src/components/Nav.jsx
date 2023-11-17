@@ -1,11 +1,11 @@
 import { Link } from 'react-router-dom';
-import Navbar from './navbar';
+import NavLinks from './NavLinks';
 
 // In our return method, we use the map method to return a new array of `li` and `img` elements that are specific to each search result
 function Nav() {
   return (
     <>
-      <Navbar
+      <NavLinks
       links={[
         <Link key={1} className="nav-link text-light" to="/">
           Mariah Wear
