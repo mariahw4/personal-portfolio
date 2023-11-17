@@ -5,7 +5,7 @@ function Resume() {
     <div className="container">
         <h2 className="h2" id="Resume" >Resume & Proficiencies:</h2>
 
-        <a href='./single-page-resume.pdf' className="btn btn-dark" download>Click to view/download my Resume</a>
+        <a href='./WebEngineerResume.pdf' className="btn btn-dark" download>Click to view/download my Resume</a>
 
         <h3>Proficiencies:</h3>
         <ul>
