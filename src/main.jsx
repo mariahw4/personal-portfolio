@@ -12,6 +12,7 @@ import Portfolio from './components/portfolio';
 import Contact from './components/contact';
 import { ErrorPage } from './components/error_page';
 import Resume from './components/resume';
+import ThankYou from './components/thankyou';
 
 const router = createBrowserRouter([
   {
@@ -39,6 +40,10 @@ const router = createBrowserRouter([
         path: 'resume',
         element: <Resume />,
       },
+      {
+        path: 'thanks',
+        element: <ThankYou />
+      }
     ],
   },
 ]);
