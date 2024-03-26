@@ -13,6 +13,7 @@ import Contact from './components/contact';
 import { ErrorPage } from './components/error_page';
 import Resume from './components/resume';
 import ThankYou from './components/thankyou';
+import Home from './components/home';
 
 const router = createBrowserRouter([
   {
@@ -22,7 +23,7 @@ const router = createBrowserRouter([
     children: [
       {
         index: true,
-        element: <About />,
+        element: <Home />,
       },
       {
         path: 'about',

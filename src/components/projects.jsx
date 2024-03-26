@@ -1,5 +1,12 @@
 const projects = [
     {
+        title: 'Currency Exchange', 
+        description: 'Change Currency and basic transactions between wallets. Built with React',
+        image:'/images/currency-exchange.png',
+        link: 'https://github.com/mariahw4/currency-exchange', 
+        github: 'https://mariahw4.github.io/currency-exchange/',
+    },
+    {
         title: 'Tech Blog App:',
         description: 'Full Stack project that enables users to post and comment on blog entries.',
         image: '/images/tech-blog.png',
@@ -41,13 +48,7 @@ const projects = [
         link: 'https://mariahw4.github.io/03-javascript-password-generator/', 
         github: 'https://github.com/mariahw4/03-javascript-password-generator',
     },
-    // {
-    //     title: 'Basic Portfolio:', 
-    //     description: 'This is my first generation portfolio with links to more projects I have completed.',
-    //     image:'/images/early-portfolio.png',
-    //     link: 'https://mariahw4.github.io/02-professional-portfolio/', 
-    //     github: 'https://github.com/mariahw4/02-professional-portfolio',
-    // }
+
 ]
 
     export default projects;

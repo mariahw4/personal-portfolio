@@ -5,7 +5,6 @@ function About() {
         <div className="container py-4">
             <h2 className="h2" id="About-Me">About Me:</h2>
             <div className="justify-content-center">
-                <img src="/images/headshot.png" className="headshot-img" alt=" headshot "/>
 
             </div>
             <p>I am a novice and aspiring full stack developer and coder.  My career path and journey through life has been non-traditional. By following my passion
