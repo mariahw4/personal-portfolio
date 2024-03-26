@@ -55,9 +55,8 @@ function Contact() {
   return (
     <div className="container py-4">
       <h2 className="h2" id="Contact-Me">
-        Contact Me:
+      I&apos;d love to connect! Please send me a message.
       </h2>
-      <p>I&apos;d love to connect! Please send me a message.</p>
 
       <form
         action="https://formsubmit.co/7d15528960746a592416c31c8be147f6"

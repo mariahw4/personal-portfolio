@@ -8,9 +8,8 @@ function Portfolio() {
       <>
         <div className="container py-4 px-4">
         <h2 className="h2" id="Portfolio">
-          Portfolio:
+          Check out some of the projects I have been involved with so far!
         </h2>
-        <h3>Example Projects:</h3>
         <div className="row">
       {projects.map((project) => ( 
         <Project key={project.title} description={project.description} title={project.title} image={project.image} github={project.github} link={project.link}/>
