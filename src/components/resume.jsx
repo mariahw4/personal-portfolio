@@ -2,7 +2,7 @@
 
 function Resume() {
     return (
-    <div className="container">
+    <div className="container py-4">
         <h2 className="h2" id="Resume" >Resume & Proficiencies:</h2>
 
         <a href='./WebEngineerResume.pdf' className="btn btn-dark" download>Click to view/download my Resume</a>
