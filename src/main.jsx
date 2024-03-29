@@ -14,6 +14,7 @@ import { ErrorPage } from './components/error_page';
 import Resume from './components/resume';
 import ThankYou from './components/thankyou';
 import Home from './components/home';
+import GearHead from './components/gear_expert';
 
 const router = createBrowserRouter([
   {
@@ -44,6 +45,10 @@ const router = createBrowserRouter([
       {
         path: 'thanks',
         element: <ThankYou />
+      },
+      {
+        path: 'expert',
+        element: <GearHead />
       }
     ],
   },

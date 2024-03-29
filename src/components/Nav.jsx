@@ -22,6 +22,9 @@ function Nav() {
        <Link key={5} className="nav-link text-light" to="/resume">
        Resume
      </Link>,
+      <Link key={6} className="nav-link text-dark px-5" to="/expert">
+      Nonsequiter -&gt; but if you&apos;re looking for ski gear 
+    </Link>,
       ]}
     />
     </>
