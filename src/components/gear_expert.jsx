@@ -7,7 +7,7 @@ function GearHead() {
         </h2>
   
         <form
-          action="https://formsubmit.co/7d15528960746a592416c31c8be147f6"
+          action="https://formsubmit.co/mwear.adventures@gmail.com"
           method="POST"
         >
           <input
