@@ -74,7 +74,7 @@ function GearHead() {
               placeholder="Message"
             />
           </div>
-          <button type="submit" className="btn btn-dark col-12">
+          <button type="submit" className="btn btn-dark col-12 my-4">
             Submit
           </button>
           {/* </div> */}
