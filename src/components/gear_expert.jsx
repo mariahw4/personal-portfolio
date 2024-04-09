@@ -3,7 +3,7 @@ function GearHead() {
     return (
       <div className="container py-4">
         <h2 className="h2" id="Contact-Me">
-        If you have worked with me on Curated -- Please send me a message. Let&apos;s get this ball rolling again!! 
+        If you worked with me on Curated -- Please send me a message. Let&apos;s stay in touch &#128515;!! 
         </h2>
   
         <form

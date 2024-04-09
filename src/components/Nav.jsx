@@ -23,7 +23,7 @@ function Nav() {
        Resume
      </Link>,
       <Link key={6} className="nav-link text-dark px-5" to="/expert">
-      Nonsequiter -&gt; but if you&apos;re looking for ski gear 
+      Nonsequiter -&gt; but if you&apos;re a past Curated connection of mine!
     </Link>,
       ]}
     />
