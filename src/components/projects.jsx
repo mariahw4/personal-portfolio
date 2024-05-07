@@ -28,13 +28,6 @@ const projects = [
         github: 'https://github.com/mariahw4/yardsale-2.0',
     },
     {
-        title: 'Web API group project:',
-        description: 'App to search for movies and see details about the movie and actors.',
-        image: '/images/webAPI.png',
-        link: 'https://mariahw4.github.io/MovieDetails/',
-        github: 'https://github.com/mariahw4/MovieDetails',
-    },
-    {
         title: 'Workday Scheduler:',
         description: 'Scheduling Application to enable a user to track their daily actities by the hour.',
         image: '/images/workday-scheduler.png',
