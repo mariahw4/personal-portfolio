@@ -14,6 +14,13 @@ const projects = [
         github: 'https://github.com/mariahw4/14-Tech-Blog',
     },
     {
+        title: 'Movie Geek',
+        description: 'Front end project utilizing a 3rd party server-side API',
+        image: '/images/movie-geek.png',
+        link: 'https://mariahw4.github.io/MovieDetails/',
+        github: 'https://github.com/mariahw4/MovieDetails',
+    },
+    {
         title: 'Yard Sale 2.0',
         description: 'Full Stack project that enables users to post products and add them to a cart. User authenticaion with JWT and payment playform stripe integration',
         image: '/images/yardsale2.png',
